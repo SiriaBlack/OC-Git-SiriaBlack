@@ -1,0 +1,19 @@
+/* Un peu de code CSS pour rendre la page jolie */
+
+body
+{
+	background-color: #D5F1C9;
+	color: black;
+	font-family: Arial, serif;
+}
+
+h1
+{
+	text-align: center;
+}
+
+p
+{
+	width: 500px;
+	margin: auto;
+}
